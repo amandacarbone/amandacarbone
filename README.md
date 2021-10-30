@@ -11,7 +11,7 @@
 - 🐶 I have two dogs named Rougarou and Puck
 
 // Myspace-esque Interest Section
-- 🎧 EDM, jazz, pop punk, Queen, My Chemical Romance
+- 🎧 EDM, pop punk, Queen, My Chemical Romance, Billie Holiday
 - 🎮 Fallout, Elder Scrolls, Cyberpunk 2077, The Ascent, Resident Evil 2
 - 📖 Altered Carbon, Do Androids Dream of Electric Sheep?, The Catcher in the Rye, Hocus Pocus
 - 🎬 Iron Man, Avengers, Hocus Pocus, Bladerunner, Wayne's World, Taladega Nights, Rear Window
