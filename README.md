@@ -3,7 +3,6 @@
 - 📫 How to reach me amandamooney0418@gmail.com
 - 👀 I’m interested in Full-Stack Software Development
 - 🌱 I’m currently learning HTML, CSS, and JavaScript
-- 🔮 I'd like to learn C# .NET and C++ in the future
 
 // Family Life
 - 💍 I have an amazing wife named Kathleen (July 9th, 2021)
