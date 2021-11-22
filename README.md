@@ -1,31 +1,6 @@
-// Intro
-- 👋 Hi, I’m @amandacarbone
-- 📫 How to reach me amandamooney0418@gmail.com
-- 👀 I’m interested in Full-Stack Software Development
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
+A natural inclination towards calculated meticulousness, structure, logic, and efficiency - plus an affinity for technology and its virtually infinite potential to progress humanity in so many ways - is what catalyzed me to deepen my knowledge of coding and ultimately decide to transition to the role of full-stack developer.
 
-// Family Life
-- 💍 I have an amazing wife named Kathleen (July 9th, 2021)
-- 🐱 I have an orange cat named Butters
-- 🐶 I have two dogs named Rougarou and Puck
-
-// Myspace-esque Interest Section
-- 🎧 EDM, pop punk, Queen, My Chemical Romance, Billie Holiday
-- 🎮 Fallout, Elder Scrolls, Cyberpunk 2077, The Ascent, Resident Evil 2
-- 📖 Altered Carbon, Do Androids Dream of Electric Sheep?, The Catcher in the Rye, Hocus Pocus
-- 🎬 Iron Man, Avengers, Hocus Pocus, Bladerunner, Wayne's World, Taladega Nights, Rear Window
-- 📺 The Golden Girls, WandaVision, The Crown, The Haunting of Hill House, trash reality shows
-- 😋 Gyoza, salami sandwiches w/ mustard + mayo, ramen, shawarma, cucumbers
-- 🏒 Hockey (Go Bruins)
-- 🎨 Red, yellow, orange, black
-
-// Random
-- 🦾 Cybernetic enhancements would be cool to have
-- 🏠 Every person and animal should have a home
-- 🐝 Don't bee hatin', keep pollinatin'
-- ♈️ *screams in Aries*
-- 🚀 Going to space would be dope
-- 🎃 Keep Halloween alive
+I spent 7+ years in digital content marketing specializing in copy writing, content strategy, and SEO in B2B and B2C settings. During this time, I worked closely with web and software developers from conception to deployment, providing strategic insight to best support user experience. This enables me to offer technical skill tempered with an agile, team-oriented mindset and an acumen for developing websites and apps that support an accessible, comprehensible user journey while aligning with business goals.
  
 
 <!---
