@@ -1,4 +1,4 @@
-I am a front-end developer completing the Front-End Development Bootcamp at Grand Circus.
+I am a front-end developer completing the Front-End Development Bootcamp at Grand Circus - Detroit.
 
 Prior to Grand Circus, I spent 7+ years in digital content marketing in both B2B and B2C settings where I had the opportunity to collaborate directly with development teams and cultivate an understanding of their complete workflow including wireframing, UX, and testing.
 
