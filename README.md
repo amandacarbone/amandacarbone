@@ -6,7 +6,7 @@ It was during this time that I realized the crucial importance of intuitive, acc
 
 At Grand Circus, I have received intensive, hands-on training from a front-end perspective learning React, JavaScript, TypeScript, and HTML/CSS having built a mobile-responsive POS system and soon a live web application from scratch. Outside of that, I am driven by a borderline Faustian obsession with expanding my coding knowledge and experience; most notably taking additional courses in Python and volunteering my skills on a project developing an application to improve the vetting process for veterinarians, breeders, and shelters of animal adoption or purchase applicants.
 
-I am thrilled to begin my career as a developer and look forward to harnessing the power of technology to positively impact the world through user-centric applications.
+I am thrilled to harness the power of technology to positively impact the world through user-centric applications.
  
 
 <!---
