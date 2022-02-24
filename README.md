@@ -6,4 +6,4 @@ It was during this time that I realized the crucial importance of intuitive, acc
 
 At Grand Circus, I received intensive, hands-on training from a front-end perspective learning React, JavaScript, TypeScript, and HTML/CSS while also being taught to work with full-stack technologies like Express and REST APIs. Outside of that, I am driven by a borderline Faustian obsession with expanding my coding knowledge and experience; most notably taking additional courses in Python and volunteering my skills on a project developing an application to improve the vetting process animal adoption or purchase applicants for veterinarians, breeders, and rescue organizations.
 
-I am thrilled to harness the power of technology to positively impact the world through user-centric applications.
+Beyond coding, I am an unrelenting nerd for fantasy/science-fiction RPGs, animals, criminology, psychology, history, outer space, and cybernetics. You can also find me delivering witty commentary on trash reality shows with my amazing wife, and obsessing over my three adorable rescue fur babies.
